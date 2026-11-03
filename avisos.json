@@ -1,0 +1,162 @@
+{
+ "versao": "avisos.v1",
+ "ambiente": "homologacao",
+ "origem": "HOMOLOGAÇÃO — planilha de avisos da GEAE (somente avisos fictícios)",
+ "gerado_em": "2026-11-03T16:09:14-03:00",
+ "hash": "7d8d76176b9fceea4489d8cb732d274597e72fe43af5a0623273dbe53a123fc6",
+ "avisos": [
+  {
+   "id": "ficticio-indisponibilidade-programada-do-suap-20261103",
+   "titulo": "Fictício — Indisponibilidade programada do SUAP",
+   "resumo": "Aviso urgente fictício para testar a faixa de urgência da página inicial.",
+   "categoria": "sistemas",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-11-03T08:00:00-03:00",
+   "fim": "2026-11-20T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "urgente",
+   "destaque": false,
+   "links": [
+    {
+     "rotulo": "Acessar o SUAP",
+     "href": "https://suap.ifto.edu.br/"
+    },
+    {
+     "rotulo": "Guia: sistemas acadêmicos",
+     "href": "#guia-estudante/sistemas"
+    }
+   ],
+   "servicos": [],
+   "editais": [],
+   "contatos": [
+    "coordenacao-atendimento-integrado"
+   ],
+   "setor": "CAI",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00",
+   "texto": "Conteúdo fictício de teste.\nNenhuma informação deste aviso é real."
+  },
+  {
+   "id": "ficticio-periodo-de-renovacao-de-matricula-20261103",
+   "titulo": "Fictício — Período de renovação de matrícula",
+   "resumo": "Aviso importante fictício em destaque, destinado aos cursos superiores.",
+   "categoria": "matricula",
+   "publico": [
+    "superior"
+   ],
+   "inicio": "2026-11-01T08:00:00-03:00",
+   "fim": "2026-11-30T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "importante",
+   "destaque": true,
+   "links": [],
+   "servicos": [
+    "declaracao-matricula"
+   ],
+   "editais": [],
+   "contatos": [
+    "secretaria-academica"
+   ],
+   "setor": "SEAC",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00"
+  },
+  {
+   "id": "ficticio-prazo-academico-dos-cursos-tecnicos-20261103",
+   "titulo": "Fictício — Prazo acadêmico dos cursos técnicos",
+   "resumo": "Aviso normal fictício em destaque para os cursos técnicos e EMI.",
+   "categoria": "prazos",
+   "publico": [
+    "emi",
+    "tecnico"
+   ],
+   "inicio": "2026-11-02T08:00:00-03:00",
+   "fim": "2026-11-25T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "normal",
+   "destaque": true,
+   "links": [],
+   "servicos": [],
+   "editais": [],
+   "contatos": [],
+   "setor": "GEAE",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00"
+  },
+  {
+   "id": "ficticio-comunicado-agendado-com-divulgacao-autorizada-20261103",
+   "titulo": "Fictício — Comunicado agendado com divulgação autorizada",
+   "resumo": "Agendado fictício já autorizado: vai ao arquivo, mas só aparece no início.",
+   "categoria": "institucional",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-11-12T08:00:00-03:00",
+   "fim": "2026-11-22T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "normal",
+   "destaque": false,
+   "links": [],
+   "servicos": [],
+   "editais": [],
+   "contatos": [],
+   "setor": "GEAE",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00",
+   "divulgacao_antecipada": true
+  },
+  {
+   "id": "ficticio-inscricoes-encerradas-20261103",
+   "titulo": "Fictício — Inscrições encerradas",
+   "resumo": "Aviso fictício encerrado, mantido no histórico de 12 meses.",
+   "categoria": "editais",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-10-01T08:00:00-03:00",
+   "fim": "2026-10-30T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "normal",
+   "destaque": false,
+   "links": [
+    {
+     "rotulo": "Página de editais",
+     "href": "#processos-seletivos"
+    }
+   ],
+   "servicos": [],
+   "editais": [
+    "edital-36-2026-transferencia-portador-reingresso-superiores"
+   ],
+   "contatos": [],
+   "setor": "GEAE",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00"
+  },
+  {
+   "id": "ficticio-mudanca-de-atendimento-retirada-20261103",
+   "titulo": "Fictício — Mudança de atendimento retirada",
+   "resumo": "Aviso fictício suspenso antes do fim: aparece no histórico com o motivo.",
+   "categoria": "atendimento",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-10-25T08:00:00-03:00",
+   "fim": "2026-11-30T18:00:00-03:00",
+   "estado": "suspenso",
+   "prioridade": "normal",
+   "destaque": false,
+   "links": [],
+   "servicos": [],
+   "editais": [],
+   "contatos": [],
+   "setor": "CAI",
+   "criado_em": "2026-11-03T15:10:47-03:00",
+   "atualizado_em": "2026-11-03T15:10:47-03:00",
+   "suspenso_em": "2026-11-03T15:10:47-03:00",
+   "motivo_suspensao": "Motivo fictício: comunicado substituído por outro."
+  }
+ ]
+}
