@@ -2,8 +2,8 @@
  "versao": "avisos.v1",
  "ambiente": "homologacao",
  "origem": "HOMOLOGAÇÃO — planilha de avisos da GEAE (somente avisos fictícios)",
- "gerado_em": "2026-11-03T16:09:14-03:00",
- "hash": "7d8d76176b9fceea4489d8cb732d274597e72fe43af5a0623273dbe53a123fc6",
+ "gerado_em": "2026-11-06T15:42:04-03:00",
+ "hash": "9c5224145000fe632bef8e3ee49f0be6b5b3c75dc6e1aeec0f297ece2d4b0d8d",
  "avisos": [
   {
    "id": "ficticio-indisponibilidade-programada-do-suap-20261103",
@@ -157,6 +157,28 @@
    "atualizado_em": "2026-11-03T15:10:47-03:00",
    "suspenso_em": "2026-11-03T15:10:47-03:00",
    "motivo_suspensao": "Motivo fictício: comunicado substituído por outro."
+  },
+  {
+   "id": "ficticio-homologacao-r4-15-j6-h1-20261106",
+   "titulo": "Fictício — Homologação R4.15-J6-H1",
+   "resumo": "Aviso exclusivamente fictício, utilizado para testar o sistema de publicação dos Avisos Acadêmicos. Não constitui comunicação oficial do IFTO.",
+   "categoria": "institucional",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-11-06T08:00:00-03:00",
+   "fim": "2026-11-13T18:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "normal",
+   "destaque": true,
+   "links": [],
+   "servicos": [],
+   "editais": [],
+   "contatos": [],
+   "setor": "GEAE",
+   "criado_em": "2026-11-06T15:32:46-03:00",
+   "atualizado_em": "2026-11-06T15:33:25-03:00",
+   "texto": "Aviso exclusivamente fictício, utilizado para testar o sistema de publicação dos Avisos Acadêmicos. Não constitui comunicação oficial do IFTO."
   }
  ]
 }
