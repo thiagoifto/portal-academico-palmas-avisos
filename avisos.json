@@ -1,100 +1,19 @@
 {
  "versao": "avisos.v1",
- "ambiente": "homologacao",
- "origem": "HOMOLOGAÇÃO — planilha de avisos da GEAE (somente avisos fictícios)",
- "gerado_em": "2026-11-06T15:42:04-03:00",
- "hash": "9c5224145000fe632bef8e3ee49f0be6b5b3c75dc6e1aeec0f297ece2d4b0d8d",
+ "origem": "Planilha oficial de avisos — GEAE Campus Palmas",
+ "gerado_em": "2026-11-08T08:33:45-03:00",
+ "hash": "1dc077da76b46a227be78680327bbac8f8d43e99c2a0efe8aba755c755085b20",
  "avisos": [
   {
-   "id": "ficticio-indisponibilidade-programada-do-suap-20261103",
-   "titulo": "Fictício — Indisponibilidade programada do SUAP",
-   "resumo": "Aviso urgente fictício para testar a faixa de urgência da página inicial.",
-   "categoria": "sistemas",
-   "publico": [
-    "todos"
-   ],
-   "inicio": "2026-11-03T08:00:00-03:00",
-   "fim": "2026-11-20T18:00:00-03:00",
-   "estado": "publicado",
-   "prioridade": "urgente",
-   "destaque": false,
-   "links": [
-    {
-     "rotulo": "Acessar o SUAP",
-     "href": "https://suap.ifto.edu.br/"
-    },
-    {
-     "rotulo": "Guia: sistemas acadêmicos",
-     "href": "#guia-estudante/sistemas"
-    }
-   ],
-   "servicos": [],
-   "editais": [],
-   "contatos": [
-    "coordenacao-atendimento-integrado"
-   ],
-   "setor": "CAI",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00",
-   "texto": "Conteúdo fictício de teste.\nNenhuma informação deste aviso é real."
-  },
-  {
-   "id": "ficticio-periodo-de-renovacao-de-matricula-20261103",
-   "titulo": "Fictício — Período de renovação de matrícula",
-   "resumo": "Aviso importante fictício em destaque, destinado aos cursos superiores.",
-   "categoria": "matricula",
-   "publico": [
-    "superior"
-   ],
-   "inicio": "2026-11-01T08:00:00-03:00",
-   "fim": "2026-11-30T18:00:00-03:00",
-   "estado": "publicado",
-   "prioridade": "importante",
-   "destaque": true,
-   "links": [],
-   "servicos": [
-    "declaracao-matricula"
-   ],
-   "editais": [],
-   "contatos": [
-    "secretaria-academica"
-   ],
-   "setor": "SEAC",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00"
-  },
-  {
-   "id": "ficticio-prazo-academico-dos-cursos-tecnicos-20261103",
-   "titulo": "Fictício — Prazo acadêmico dos cursos técnicos",
-   "resumo": "Aviso normal fictício em destaque para os cursos técnicos e EMI.",
-   "categoria": "prazos",
-   "publico": [
-    "emi",
-    "tecnico"
-   ],
-   "inicio": "2026-11-02T08:00:00-03:00",
-   "fim": "2026-11-25T18:00:00-03:00",
-   "estado": "publicado",
-   "prioridade": "normal",
-   "destaque": true,
-   "links": [],
-   "servicos": [],
-   "editais": [],
-   "contatos": [],
-   "setor": "GEAE",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00"
-  },
-  {
-   "id": "ficticio-comunicado-agendado-com-divulgacao-autorizada-20261103",
-   "titulo": "Fictício — Comunicado agendado com divulgação autorizada",
-   "resumo": "Agendado fictício já autorizado: vai ao arquivo, mas só aparece no início.",
+   "id": "novo-servico-de-avisos-academicos-no-portal-20261108",
+   "titulo": "Novo serviço de Avisos Acadêmicos no Portal",
+   "resumo": "O Portal de Serviços Acadêmicos do IFTO — Campus Palmas passa a contar com uma seção destinada à divulgação de avisos e comunicados acadêmicos.",
    "categoria": "institucional",
    "publico": [
     "todos"
    ],
-   "inicio": "2026-11-12T08:00:00-03:00",
-   "fim": "2026-11-22T18:00:00-03:00",
+   "inicio": "2026-11-08T08:00:00-03:00",
+   "fim": "2026-12-08T08:00:00-03:00",
    "estado": "publicado",
    "prioridade": "normal",
    "destaque": false,
@@ -103,82 +22,9 @@
    "editais": [],
    "contatos": [],
    "setor": "GEAE",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00",
-   "divulgacao_antecipada": true
-  },
-  {
-   "id": "ficticio-inscricoes-encerradas-20261103",
-   "titulo": "Fictício — Inscrições encerradas",
-   "resumo": "Aviso fictício encerrado, mantido no histórico de 12 meses.",
-   "categoria": "editais",
-   "publico": [
-    "todos"
-   ],
-   "inicio": "2026-10-01T08:00:00-03:00",
-   "fim": "2026-10-30T18:00:00-03:00",
-   "estado": "publicado",
-   "prioridade": "normal",
-   "destaque": false,
-   "links": [
-    {
-     "rotulo": "Página de editais",
-     "href": "#processos-seletivos"
-    }
-   ],
-   "servicos": [],
-   "editais": [
-    "edital-36-2026-transferencia-portador-reingresso-superiores"
-   ],
-   "contatos": [],
-   "setor": "GEAE",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00"
-  },
-  {
-   "id": "ficticio-mudanca-de-atendimento-retirada-20261103",
-   "titulo": "Fictício — Mudança de atendimento retirada",
-   "resumo": "Aviso fictício suspenso antes do fim: aparece no histórico com o motivo.",
-   "categoria": "atendimento",
-   "publico": [
-    "todos"
-   ],
-   "inicio": "2026-10-25T08:00:00-03:00",
-   "fim": "2026-11-30T18:00:00-03:00",
-   "estado": "suspenso",
-   "prioridade": "normal",
-   "destaque": false,
-   "links": [],
-   "servicos": [],
-   "editais": [],
-   "contatos": [],
-   "setor": "CAI",
-   "criado_em": "2026-11-03T15:10:47-03:00",
-   "atualizado_em": "2026-11-03T15:10:47-03:00",
-   "suspenso_em": "2026-11-03T15:10:47-03:00",
-   "motivo_suspensao": "Motivo fictício: comunicado substituído por outro."
-  },
-  {
-   "id": "ficticio-homologacao-r4-15-j6-h1-20261106",
-   "titulo": "Fictício — Homologação R4.15-J6-H1",
-   "resumo": "Aviso exclusivamente fictício, utilizado para testar o sistema de publicação dos Avisos Acadêmicos. Não constitui comunicação oficial do IFTO.",
-   "categoria": "institucional",
-   "publico": [
-    "todos"
-   ],
-   "inicio": "2026-11-06T08:00:00-03:00",
-   "fim": "2026-11-13T18:00:00-03:00",
-   "estado": "publicado",
-   "prioridade": "normal",
-   "destaque": true,
-   "links": [],
-   "servicos": [],
-   "editais": [],
-   "contatos": [],
-   "setor": "GEAE",
-   "criado_em": "2026-11-06T15:32:46-03:00",
-   "atualizado_em": "2026-11-06T15:33:25-03:00",
-   "texto": "Aviso exclusivamente fictício, utilizado para testar o sistema de publicação dos Avisos Acadêmicos. Não constitui comunicação oficial do IFTO."
+   "criado_em": "2026-11-08T08:20:30-03:00",
+   "atualizado_em": "2026-11-08T08:33:15-03:00",
+   "texto": "O IFTO — Campus Palmas disponibiliza, no Portal de Serviços Acadêmicos, a seção de Avisos Acadêmicos, destinada à divulgação de informações e comunicados de interesse da comunidade acadêmica.\n\nNesse espaço, estudantes poderão acompanhar orientações, atualizações e informações relacionadas aos serviços e procedimentos acadêmicos do Campus Palmas.\n\nOs avisos serão disponibilizados conforme sua publicação, com identificação do assunto, período de vigência e setor responsável.\n\nA nova seção integra as iniciativas de organização e ampliação do acesso às informações acadêmicas."
   }
  ]
 }
