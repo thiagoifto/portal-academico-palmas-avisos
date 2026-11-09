@@ -1,0 +1,30 @@
+{
+ "versao": "avisos.v1",
+ "origem": "Planilha oficial de avisos — GEAE Campus Palmas",
+ "gerado_em": "2026-11-09T11:54:15-03:00",
+ "hash": "db22c3d1e9777e0608ad6f5f074cb01c35c1da6faa4b96b70981b497dcf230c2",
+ "avisos": [
+  {
+   "id": "novo-servico-de-avisos-academicos-no-portal-20261108",
+   "titulo": "Avisos Acadêmicos",
+   "resumo": "O Portal de Serviços Acadêmicos do IFTO — Campus Palmas passa a contar com uma seção destinada à divulgação de avisos e comunicados acadêmicos.",
+   "categoria": "institucional",
+   "publico": [
+    "todos"
+   ],
+   "inicio": "2026-11-08T08:00:00-03:00",
+   "fim": "2026-12-08T08:00:00-03:00",
+   "estado": "publicado",
+   "prioridade": "normal",
+   "destaque": false,
+   "links": [],
+   "servicos": [],
+   "editais": [],
+   "contatos": [],
+   "setor": "GEAE",
+   "criado_em": "2026-11-08T08:20:30-03:00",
+   "atualizado_em": "2026-11-09T11:53:37-03:00",
+   "texto": "O IFTO — Campus Palmas disponibiliza, no Portal de Serviços Acadêmicos, a seção de Avisos Acadêmicos, destinada à divulgação de informações e comunicados de interesse da comunidade acadêmica.\n\nNesse espaço, estudantes poderão acompanhar orientações, atualizações e informações relacionadas aos serviços e procedimentos acadêmicos do Campus Palmas.\n\nOs avisos serão disponibilizados conforme sua publicação, com identificação do assunto, período de vigência e setor responsável.\n\nA nova seção integra as iniciativas de organização e ampliação do acesso às informações acadêmicas."
+  }
+ ]
+}
